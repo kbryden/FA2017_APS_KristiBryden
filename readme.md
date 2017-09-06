@@ -1,8 +1,13 @@
 #UX/UI Designer Gaps
+
 09.05.2017
+
 Kristi Bryden
+
 MCAD
-Total Project Deliverable Summary
+
+##Total Project Deliverable Summary
+
 My focus areas are User Research Methods and Best Practices, User Interface Design Patterns for Successful Software, and Conducting Usability Testing. These areas are points of weakness for me especially at my job. I am the only UX/UI designer in my company located in Denver. We have a nationwide team and we meet once a week but I need to be responsible and take care to make sure that I am doing my job correctly and not cutting corners. I plan on focusing on areas of weakness throughout the semester taking 10 week courses through Interaction Design. 
 At the end of the semester, I plan on creating a project that will encompass these areas of weakness that will showcase what I’ve learned not only in this class but through my time here at MCAD. The project will be simple and straightforward but will include UX/UI design strategies and elements. 
 Technology List
